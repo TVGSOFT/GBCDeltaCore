@@ -197,7 +197,7 @@
             },
             {
               "asset": {
-                "normal": "start_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "start"
@@ -214,7 +214,7 @@
             },
             {
               "asset": {
-                "normal": "select_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "select"
@@ -231,7 +231,7 @@
             },
             {
               "asset": {
-                "normal": "menu_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "menu"
@@ -455,7 +455,7 @@
             },
             {
               "asset": {
-                "normal": "start_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "start"
@@ -472,7 +472,7 @@
             },
             {
               "asset": {
-                "normal": "select_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "select"
@@ -489,7 +489,7 @@
             },
             {
               "asset": {
-                "normal": "menu_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "menu"
@@ -591,7 +591,7 @@
             },
             {
               "asset": {
-                "normal": "start_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "start"
@@ -608,7 +608,7 @@
             },
             {
               "asset": {
-                "normal": "select_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "select"
@@ -625,7 +625,7 @@
             },
             {
               "asset": {
-                "normal": "menu_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "menu"
@@ -716,7 +716,7 @@
             },
             {
               "asset": {
-                "normal": "start_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "start"
@@ -733,7 +733,7 @@
             },
             {
               "asset": {
-                "normal": "select_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "select"
@@ -750,7 +750,7 @@
             },
             {
               "asset": {
-                "normal": "menu_landscape.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "menu"
@@ -855,7 +855,7 @@
             },
             {
               "asset": {
-                "normal": "start_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "start"
@@ -872,7 +872,7 @@
             },
             {
               "asset": {
-                "normal": "select_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "select"
@@ -889,7 +889,7 @@
             },
             {
               "asset": {
-                "normal": "menu_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "menu"
@@ -979,7 +979,7 @@
             },
             {
               "asset": {
-                "normal": "start_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "start"
@@ -996,7 +996,7 @@
             },
             {
               "asset": {
-                "normal": "select_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "select"
@@ -1013,7 +1013,7 @@
             },
             {
               "asset": {
-                "normal": "menu_ipad.pdf"
+                "normal": "function_button.pdf"
               },
               "inputs": [
                 "menu"
